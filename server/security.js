@@ -4,8 +4,8 @@ BrowserPolicy.framing.disallow();
 // Dissalow inline JavaScript
 BrowserPolicy.content.disallowInlineScripts();
 
-// Disallow eval() statements
-BrowserPolicy.content.disallowEval();
+// Allow eval() statements (for MessageFormat v1)
+BrowserPolicy.content.allowEval()
 
 // All inline CSS
 BrowserPolicy.content.allowInlineStyles();
