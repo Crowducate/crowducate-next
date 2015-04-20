@@ -24,8 +24,8 @@ mfPkg.addNative(
     "file": "./client/templates/teach/teach.html",
     "line": 17,
     "template": "teach",
-    "mtime": 1429262604880,
-    "ctime": 1429262604880
+    "ctime": 1429262604880,
+    "mtime": 1429262604880
   },
   "add new course form cover photo label": {
     "key": "add new course form cover photo label",
@@ -141,8 +141,8 @@ mfPkg.addNative(
     "file": "./client/templates/layouts/_header.html",
     "line": 22,
     "template": "_header",
-    "mtime": 1429262604880,
-    "ctime": 1429262604880
+    "ctime": 1429262604880,
+    "mtime": 1429262604880
   },
   "_header-learnTab-linkText": {
     "key": "_header-learnTab-linkText",
@@ -150,8 +150,8 @@ mfPkg.addNative(
     "file": "./client/templates/layouts/_header.html",
     "line": 28,
     "template": "_header",
-    "mtime": 1429262604880,
-    "ctime": 1429262604880
+    "ctime": 1429262604880,
+    "mtime": 1429262604880
   },
   "_header-teachTab-linkText": {
     "key": "_header-teachTab-linkText",
@@ -159,8 +159,8 @@ mfPkg.addNative(
     "file": "./client/templates/layouts/_header.html",
     "line": 34,
     "template": "_header",
-    "mtime": 1429262604880,
-    "ctime": 1429262604880
+    "ctime": 1429262604880,
+    "mtime": 1429262604880
   },
   "_header-dropdownMenu-signOutText": {
     "key": "_header-dropdownMenu-signOutText",
@@ -240,8 +240,8 @@ mfPkg.addNative(
     "file": "./client/templates/course/sidebar/section/add-lesson/add-lesson.html",
     "line": 6,
     "template": "sectionAddLesson",
-    "mtime": 1429262604880,
-    "ctime": 1429262604880
+    "ctime": 1429262604880,
+    "mtime": 1429262604880
   },
   "sectionAddLesson-addLessonButtonText": {
     "key": "sectionAddLesson-addLessonButtonText",
@@ -294,8 +294,8 @@ mfPkg.addNative(
     "file": "./client/templates/components/saveButton.html",
     "line": 6,
     "template": "saveButton",
-    "mtime": 1429262604880,
-    "ctime": 1429262604880
+    "ctime": 1429262604880,
+    "mtime": 1429262604880
   },
   "save button template save button text": {
     "key": "save button template save button text",
@@ -303,12 +303,12 @@ mfPkg.addNative(
     "file": "./client/templates/components/saveButton.html",
     "line": 6,
     "template": "saveButton",
-    "mtime": 1429262604880,
+    "mtime": 1429383864764,
     "ctime": 1426597721408,
     "removed": true
   }
 }, 
 {
-  "extractedAt": 1429262604881,
-  "updatedAt": 1429262604880
+  "extractedAt": 1429383864764,
+  "updatedAt": 1429383864764
 });
