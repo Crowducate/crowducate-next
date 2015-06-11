@@ -1,3 +1,6 @@
+# Warning
+We have moved our development efforts to the [Crowducate Platform](http://github.com/crowducate/crowducate-platform/) repository. Please follow the development efforts there. We may delete the crowducate-next repository at some point in the near future.
+
 # Crowducate
 Rebuilding [Crowducate](http://crowducate.me) platform using Meteor 1.x
 
